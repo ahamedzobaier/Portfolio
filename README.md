@@ -2,6 +2,8 @@
 
 Personal developer portfolio site showcasing software engineering projects, technical skills, and professional experience.
 
+🔗 **Live Demo:** [ahamedzobaier.vercel.app](https://ahamedzobaier.vercel.app/)
+
 ## 🚀 Features
 - **Project Showcase**: Detailed overview of featured work and open-source contributions.
 - **Skills Matrix**: Core competencies, programming languages, and tools.
@@ -9,8 +11,10 @@ Personal developer portfolio site showcasing software engineering projects, tech
 - **Contact Info**: Links to professional profiles and contact forms.
 
 ## 🛠️ Built With
-- HTML5 / CSS3 / JavaScript
-- *To be updated with your chosen framework/stack (e.g., React, Next.js, Vue)*
+- Next.js (App Router)
+- React
+- CSS Modules / Vanilla CSS
+- TypeScript
 
 ## 📦 Getting Started
 
