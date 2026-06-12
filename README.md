@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 
 Personal developer portfolio site showcasing software engineering projects, technical skills, and professional experience.
 
@@ -25,7 +25,7 @@ Personal developer portfolio site showcasing software engineering projects, tech
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Porfolio
+   cd Portfolio
    ```
 3. Install dependencies (if applicable):
    ```bash
