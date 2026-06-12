@@ -21,7 +21,7 @@ Personal developer portfolio site showcasing software engineering projects, tech
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahamedzobaier/Porfolio.git
+   git clone https://github.com/ahamedzobaier/Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
